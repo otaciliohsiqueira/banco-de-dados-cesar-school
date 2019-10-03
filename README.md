@@ -1,1 +1,1 @@
-# banco-de-dados-cesar-school
+# Script do banco de dados (futebolBD.sql) referente a nosso esquema conceitual e relacional.
